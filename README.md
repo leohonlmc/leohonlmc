@@ -24,6 +24,6 @@
 - **Bell Geekfest Hackathon 2023**
 
 #### 📞 Contact Me:
-- LinkedIn: [Leo Hon](linkedin.com/in/leo-hon)
+- LinkedIn: [Leo Hon]([linkedin.com/in/leo-hon](https://www.linkedin.com/in/hon-leo-aa12881b2/)https://www.linkedin.com/in/hon-leo-aa12881b2/)
 - Email: fullstackleoh@gmail.com
 
