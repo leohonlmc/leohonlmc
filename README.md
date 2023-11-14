@@ -11,12 +11,8 @@
 - **Associate Merchandiser at Ralph Lauren, Hong Kong** [Feb 2020 - Aug 2020]
 
 #### 🌱 Skills:
-- Languages: JavaScript, TypeScript, Python (AI), Flask, Java, C#.
-- Frameworks: React.js, React Native, Angular.js, Node.js, ASP.Net.
-- Databases: MongoDB, PostgreSQL, MySQL, SQL.
-- Tools: Git, GitHub, AWS, Google Cloud, Azure, Postman.
-- OS: Linux, Swift.
-- Methodologies: Agile, Scrum, Full-Stack, Frontend, Backend, Mobile, AI.
+- Web & Mobile development.
+- Building startups.
 
 #### 🏆 Awards and Achievements:
 - **Winner - WIMTACH & Scarborough Food Network Hackathon 2023**
@@ -24,6 +20,6 @@
 - **Bell Geekfest Hackathon 2023**
 
 #### 📞 Contact Me:
-- LinkedIn: [Leo Hon]([linkedin.com/in/leo-hon](https://www.linkedin.com/in/hon-leo-aa12881b2/)https://www.linkedin.com/in/hon-leo-aa12881b2/)
+- LinkedIn: [Leo Hon](https://www.linkedin.com/in/hon-leo-aa12881b2/)
 - Email: fullstackleoh@gmail.com
 
