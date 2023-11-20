@@ -17,9 +17,9 @@
 
 #### 📞 Contact Me:
 <a href="https://www.linkedin.com/in/hon-leo-aa12881b2/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 130px;"/>
-</a> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; height: 60px"/>
+</a>
 <a href="mailto:fullstackleoh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="width: 130px;"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="width: 130px; height: 60px"/>
 </a>
 
