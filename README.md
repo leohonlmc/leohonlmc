@@ -8,8 +8,8 @@
 #### 🌱 Skills:
 - Web & Mobile & AI development.
 
-### 📊 Most Used Languages
-![Leo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[leohonlmc]&layout=compact)
+#### 📊 Most Used Languages
+![Leo's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leohonlmc&layout=compact)
 
 #### 🏆 Awards and Achievements:
 - **Winner - WIMTACH & Scarborough Food Network Hackathon 2023 & WIMTACH & Hyperion Sensor Hackathon 2023**
