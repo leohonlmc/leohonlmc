@@ -4,7 +4,7 @@
 - **Full Stack Developer & Founder at SweBuilder & Rejouir, Canada, ON** [Nov 2022 - Present]
 
 #### 🌱 Skills:
-- Web & Mobile & AI development.
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="height: 20px"/>
 
 #### 📊 Stats
 <p>
