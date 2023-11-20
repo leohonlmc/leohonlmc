@@ -29,10 +29,12 @@
 - **Winner - WIMTACH & Scarborough Food Network Hackathon 2023 & WIMTACH & Hyperion Sensor Hackathon 2023**
 
 #### 📞 Contact Me:
-<a href="https://www.linkedin.com/in/hon-leo-aa12881b2/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px"/>
-</a>
-<a href="mailto:fullstackleoh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 30px"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/hon-leo-aa12881b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:fullstackleoh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
