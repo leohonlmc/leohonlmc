@@ -23,7 +23,7 @@
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohonlmc&layout=compact" alt="Leo's Most Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=leohonlmc&show_icons=true" alt="Leo's GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leohonlmc&theme=github_white" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leohonlmc&theme=github_dark" />
 </p>
 
 #### 🏆 Awards and Achievements:
