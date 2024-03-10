@@ -1,6 +1,7 @@
 ## Hi there 👋, I am Ming Chun Hon
 
 #### ⚡ Work Experience:
+- **Frontend Team Lead & Frontend Developer, Canada, ON** [Jan 2024 - Present]
 - **Full Stack Developer & Founder at SweBuilder & Rejouir, Canada, ON** [Nov 2022 - Present]
 
 #### 🌱 Skills:
