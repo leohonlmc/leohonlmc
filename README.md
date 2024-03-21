@@ -29,9 +29,8 @@
 <br />
 <div align="center">
   <div style="display: flex; justify-content: center; align-items: center">
-    <img src="https://github-readme-stats.vercel.app/api?username=leohonlmc&theme=radical&show_icons=true" alt="GitHub Stats"><br /><br />
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=AryanK1511&theme=radical" alt="GitHub Streak">
+      <img src="https://streak-stats.demolab.com/?user=leohonlmc&theme=radical" alt="GitHub Streak">
     </a>
   </div>
 </div><br />
