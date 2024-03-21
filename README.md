@@ -23,13 +23,9 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohonlmc&layout=compact" alt="Leo's Most Used Languages" />
-  <div align="center">
-    <div style="display: flex; justify-content: center; align-items: center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=leohonlmc&theme=radical" alt="GitHub Streak">
-      </a>
-    </div>
-  </div>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=leohonlmc&theme=radical" alt="GitHub Streak">
+  </a>
 </p>
 
 
