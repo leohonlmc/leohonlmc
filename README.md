@@ -23,17 +23,16 @@
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leohonlmc&layout=compact" alt="Leo's Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leohonlmc&theme=github_dark" style="width: 500px" />
+  <div align="center">
+    <div style="display: flex; justify-content: center; align-items: center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=leohonlmc&theme=radical" alt="GitHub Streak">
+      </a>
+    </div>
+  </div>
 </p>
 
-<br />
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=leohonlmc&theme=radical" alt="GitHub Streak">
-    </a>
-  </div>
-</div><br />
+
 
 #### 🏆 Awards and Achievements:
 - **Winner - WIMTACH & Scarborough Food Network Hackathon 2023 & WIMTACH & Hyperion Sensor Hackathon 2023**
