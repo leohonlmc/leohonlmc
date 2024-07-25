@@ -2,7 +2,7 @@
 
 #### ⚡ Work Experience:
 - **Frontend Team Lead & Frontend Developer, Canada, ON** [Jan 2024 - May 2024]
-- **Full Stack Developer & Founder at SweBuilder & Rejouir, Canada, ON** [Nov 2022 - Present]
+- **Full Stack Developer & Founder at Rejouir (rejourxmas.com), Canada, ON** [Nov 2022 - Present]
 
 #### 🌱 Skills:
 <p>
