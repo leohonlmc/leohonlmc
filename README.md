@@ -1,8 +1,11 @@
 ## Hi there 👋, I am Ming Chun Hon
 
 #### ⚡ Work Experience:
-- **Frontend Team Lead & Frontend Developer, Canada, ON** [Jan 2024 - May 2024]
-- **Full Stack Developer & Founder at Rejouir (rejourxmas.com), Canada, ON** [Nov 2022 - Present]
+- **Frontend Team Lead & Frontend Developer, Canada, ON**
+- **Full Stack Developer & Founder at Rejouir (rejourxmas.com), Canada, ON**
+- **Mobile Application Developer, Canada, ON**
+- **IT Support Specialist, Canada, ON**
+
 
 #### 🌱 Skills:
 <p>
