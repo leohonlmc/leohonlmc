@@ -2,7 +2,7 @@
 
 #### ⚡ Work Experience:
 - **Frontend Team Lead & Frontend Developer, Canada, ON**
-- **Full Stack Developer & Founder at Rejouir (rejourxmas.com), Canada, ON**
+- **Software Engineer & Founder at Rejouir (rejourxmas.com), Canada, ON**
 - **Mobile Application Developer, Canada, ON**
 - **IT Support Specialist, Canada, ON**
 
