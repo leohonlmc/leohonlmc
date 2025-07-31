@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ming Chun Hon (Leo)</h1>
-<h3 align="center">Software Engineer | Web | Mobile | Application</h3>
+<h3 align="center">Software Engineer | Web | Mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leohonlmc&label=Profile%20views&color=0e75b6&style=flat" alt="leohonlmc" /> </p>
 
